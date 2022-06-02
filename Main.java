@@ -1,11 +1,3 @@
-package com.mycompany.csis.project9;
-
-//##################################################
-// File: Main.java
-// Author: Richard Cameron
-// Description: This file conatins the entry point for the program (Main).
-// Date: April 1, 2022
-//#################################################
 
 import java.io.File;
 import java.util.Scanner;
