@@ -1,12 +1,3 @@
-package com.mycompany.csis.project9;
-
-//##################################################
-// File: PrettyPrintTree.java
-// Author: Richard Cameron
-// Description: This file conatins the blueprint and interface for the pretty
-// print tree class.
-// Date: May 19, 2022
-//#################################################
 
 import java.util.ArrayList;
 import java.util.List;
