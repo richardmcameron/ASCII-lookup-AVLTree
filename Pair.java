@@ -1,11 +1,3 @@
-package com.mycompany.csis.project9;
-
-//##################################################
-// File: Pair.java
-// Author: Richard Cameron
-// Description: File contains blueprint for Pair class.
-// Date: February 2, 2022
-//#################################################
 
 public class Pair<F,S> 
 {
