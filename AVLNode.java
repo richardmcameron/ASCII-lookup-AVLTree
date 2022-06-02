@@ -1,12 +1,3 @@
-package com.mycompany.csis.project9;
-import com.mycompany.csis.project9.PrettyPrintTree.AVLNodeGraphicalPrint;
-
-//##################################################
-// File: AVLNode.java
-// Author: Richard Cameron
-// Description: This file conatins the blueprint for the AVL Node class.
-// Date: April 1, 2022
-//#################################################
 
 public class AVLNode<T> implements AVLNodeGraphicalPrint
 {
